@@ -11,17 +11,17 @@ I am a computational scientist and Assistant Research Professor with experience 
 - 📫 How to reach me: pmb5727@psu.edu, bayati.p@gmail.com
 - 😄 Pronouns: She/Her
 
-#### Core technical skills
+### Core technical skills
 - Scientific ML: PINNs; inverse problems; deep learning; regression; classification; model validation; multi-objective loss design
 - Programming: Python (PyTorch, scikit-learn, NumPy, Pandas, SciPy); Fortran; C++; Bash; Jupyter; Mathematica
 - Mechanistic Modeling: PDE-constrained modeling; hydrodynamics; Brownian and molecular dynamics; FEM; BEM; CFD/COMSOL
 - Scalable Computing: Linux/Unix; Git; HPC automation; multiprocessing; parallel simulation workflows; postprocessing pipelines
-#### Current research interests
+### Current research interests
 * **Scientific Machine Learning (SciML):** Leveraging Physics-Informed Neural Networks (PINNs) and deep learning frameworks to solve inverse problems in fluid dynamics and interpret complex flow fields.
 * **Active & Soft Matter Systems:** Modeling the hydrodynamic interactions, interfacial dynamics, transport strategies, microfluidic transport simulation, and collective behavior of microswimmers and colloidal particles in complex microenvironments
 * **Data-Driven Discovery in R&D:** Applying computational physics, high-performance computing (HPC), and predictive machine learning models to accelerate design and analysis in biopharma, biomedical engineering, and fluid-structure interactions.
-* 
-#### Publications
+
+### Publications
 https://scholar.google.com/citations?user=GDdZKf8AAAAJ&hl=en
-#### LinkedIn
+### LinkedIn
 https://www.linkedin.com/in/parvin-bayati/
