@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome!
 
 I am a computational scientist and Assistant Research Professor with experience in scientificmachine learning, physics-informed neural networks, inverse problems, numerical simulations, and high-performance computing. My work focuses on developing validated computational models for complex scientific systems and inferring properties that aredifficult to measure directly. I am interested in applying these methods to biopharma, biomedical engineering, healthcare technology, and science-driven R&D.
 
