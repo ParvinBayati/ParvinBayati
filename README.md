@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**ParvinBayati/ParvinBayati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am a computational scientist and Assistant Research Professor with experience in scientificmachine learning, physics-informed neural networks, inverse problems, numerical simulations, and high-performance computing. My work focuses on developing validated computational models for complex scientific systems and inferring properties that aredifficult to measure directly. I am interested in applying these methods to biopharma, biomedical engineering, healthcare technology, and science-driven R&D.
 
 
@@ -13,4 +10,4 @@ I am a computational scientist and Assistant Research Professor with experience 
 - 💬 Ask me about: Computational physics, high-performance computing (HPC), simulation of PDEs
 - 📫 How to reach me: pmb5727@psu.edu, bayati.p@gmail.com
 - 😄 Pronouns: She/Her
--->
+
