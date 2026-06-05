@@ -11,3 +11,9 @@ I am a computational scientist and Assistant Research Professor with experience 
 - 📫 How to reach me: pmb5727@psu.edu, bayati.p@gmail.com
 - 😄 Pronouns: She/Her
 
+#### Core technical skills
+
+- Scientific ML: PINNs; inverse problems; deep learning; regression; classification; model validation; multi-objective loss design
+- Programming: Python (PyTorch, scikit-learn, NumPy, Pandas, SciPy); Fortran; C++; Bash; Jupyter; Mathematica
+- Mechanistic Modeling: PDE-constrained modeling; hydrodynamics; Brownian and molecular dynamics; FEM; BEM; CFD/COMSOL
+- Scalable Computing: Linux/Unix; Git; HPC automation; multiprocessing; parallel simulation workflows; postprocessing pipelines
